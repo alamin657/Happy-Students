@@ -1,0 +1,60 @@
+.quiz-view-heading {
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-left: 20px;
+}
+
+#quiz-view-color {
+    width: 209px;
+    height: 2px;
+    border-bottom: 2px solid #FF0F0F;
+}
+
+.quiz-view-paragraph {
+    margin-top: 20px;
+    width: 985px;
+    margin-left: 20px;
+    height: 175px;
+    font-family: Outfit;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535353;
+}
+
+.quiz-view-paragraph-2 {
+    width: 985px;
+    margin-left: 20px;
+    height: 175px;
+    font-family: Outfit;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535353;
+}
+
+.quiz-view-paragraph-3 {
+    margin-left: 10px;
+    font-family: Outfit;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535353;
+}
+
+.quiz-view-flutter {
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535353;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
